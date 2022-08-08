@@ -167,6 +167,10 @@ img {
 
 /*-=====================-main-styles-start-=========================*/
 
+section {
+  width: 100%!important;
+}
+
 .conatiner {
   max-width: 1494px;
   width: 100%;
